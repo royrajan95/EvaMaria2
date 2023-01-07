@@ -2,17 +2,17 @@
   <img src="assets/logo.jpg">
 </p>
 <h1 align="center">
-  <b>PiroAutoFilterBot</b>
+  <b>Search Zone Bot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PIRO+MOVIE+SEARCH+BOT+!;CREATED+BY+PIRO!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/stargazers"><img src="https://img.shields.io/github/stars/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/network/members"> <img src="https://img.shields.io/github/forks/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Search-Zone+Bot+!;CREATED+BY+LUCIFER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
+<a href="https://github.com/Greymattersbot/EvaMaria2/stargazers"><img src="https://img.shields.io/github/stars/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2/network/members"> <img src="https://img.shields.io/github/forks/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot"> <img src="https://img.shields.io/github/repo-size/ritheshrkrm/PiroAutoFilterBot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2"> <img src="https://img.shields.io/github/repo-size/Greymattersbot/EvaMaria2?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2/commits/Greymattersbot"> <img src="https://img.shields.io/github/last-commit/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 ### Features
 
@@ -135,14 +135,18 @@ unban  - to unban a use
  - Thank To KD Bots
  - Thanks To Me For Wasting Time On This Repo Instead Of Studying :)
 
- ### Note 🏷️
- - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
- - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/raixchat)
+━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">
+    ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
 
+- <b>[ᴋᴜɴᴀʟ](https://github.com/KDBOTZ)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/KDBOTZ/LUCIFER) </b>
+- <b>[ᴇᴠᴀᴍᴀʀɪᴀ](https://github.com/EVAMARIATG)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/EVAMARIATG/EVAMARIA) </b>
+ 
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/KDBotz/LUCIFER/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʟᴜᴄɪғᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 ### TELAGRAM SUPPORT 
 
-* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/rai_info17)
+* [![GreyMatter's Support Group](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/GreyMatters_Bots_Discussion)
 
 
 
