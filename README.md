@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="assets/20221017_151105_0000.png">
 </p>
 <h1 align="center">
   <b>Search Zone Bot</b>
