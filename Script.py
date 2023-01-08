@@ -13,7 +13,8 @@ class script(object):
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/GreyMatter_Bots><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
 
-    SOURCE_TXT = """Source Code : <a href=https://github.com/Greymattersbot/EvaMaria2><b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</b>""" #please don't change repo link give credit :)
+    SOURCE_TXT = """My Repo: <a href=https://github.com/Greymattersbot/EvaMaria2><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+Base Repo: <a href=https://github.com/KDBotz/LUCIFER/tree/main/LUCIFER><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>""" #please don't change repo link give credit :)
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
