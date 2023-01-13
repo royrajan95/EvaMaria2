@@ -125,7 +125,7 @@ async def disable_chat(bot, message):
     try:
         buttons = [[
             InlineKeyboardButton('MOVIES LAND', url=f"https://t.me/{SUPPORT_CHAT}"),
-            InlineKeyboardButton('Updates', url="https://t.me/GreyMatter_Bots")
+            InlineKeyboardButton('Updates', url="https://t.me/MoviesLandBackup")
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
